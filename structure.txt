@@ -1,0 +1,81 @@
+.
+|_____includes
+| |____footer.html
+| |____header.html
+| |____navigation.html
+|____LICENSE
+|____docs
+| |____introduction.md
+| |____lorem.md
+| |____index.md
+| |____contributing.md
+|____README.md
+|____CONTRIBUTING.md
+|_____config.yml
+|____.git
+| |____config
+| |____objects
+| | |____6a
+| | | |____c50c4d16a4c7069ee597a63aaafbfc15536464
+| | |____32
+| | | |____74c4ebb1e0de24dd8e381f453033e6866d01f8
+| | | |____189e3b37e72820a75458c382ccb07f976d4ac5
+| | |____60
+| | | |____d0c62cb5fee70aeae407116e931ac18f0e918d
+| | |____9c
+| | | |____5ce2ba040dead76033a4c1e77a419dd47d2c47
+| | |____fb
+| | | |____8edfd2d4a11ce7b961bc87d4447a554ed5db86
+| | |____pack
+| | |____6b
+| | | |____f8a2e42911f86f47a4407ed0f3ce180255083f
+| | |____00
+| | | |____250c8f1b42d0a771e44c354ae99aa6a8e977cf
+| | |____5c
+| | | |____d5cc311dfe560c0939ee18b5fe40c5d705a9c1
+| | |____info
+| | |____a7
+| | | |____acd39c09cc673bddeb2981495e48824e5928cb
+| | |____e6
+| | | |____9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+| | |____e9
+| | | |____55efc3653c3a877f5e66f1de40ccd2acaa14de
+| | |____f1
+| | | |____550a5706bd71c17845876bf1439878e4a84eda
+| |____HEAD
+| |____info
+| | |____exclude
+| |____logs
+| | |____HEAD
+| | |____refs
+| | | |____heads
+| | | | |____main
+| | | |____remotes
+| | | | |____origin
+| | | | | |____main
+| |____description
+| |____hooks
+| | |____commit-msg.sample
+| | |____pre-rebase.sample
+| | |____sendemail-validate.sample
+| | |____pre-commit.sample
+| | |____applypatch-msg.sample
+| | |____fsmonitor-watchman.sample
+| | |____pre-receive.sample
+| | |____prepare-commit-msg.sample
+| | |____post-update.sample
+| | |____pre-merge-commit.sample
+| | |____pre-applypatch.sample
+| | |____pre-push.sample
+| | |____update.sample
+| | |____push-to-checkout.sample
+| |____refs
+| | |____heads
+| | | |____main
+| | |____tags
+| | |____remotes
+| | | |____origin
+| | | | |____main
+| |____index
+| |____COMMIT_EDITMSG
+|____structure.txt
