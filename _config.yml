@@ -1,0 +1,58 @@
+# Site settings
+title: The DEX Way
+description: Documentation and guidelines for The DEX Way by XBorg Labs
+baseurl: "/the-dex-way"
+url: "https://xborglabs.github.io"
+
+# Theme settings
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CONTRIBUTING.md
+  - LICENSE
+  - README.md
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Navigation
+header_pages:
+  - docs/introduction.md
+  - docs/lorem.md
+
+# Custom variables
+github_username: XBorgLabs
+github_repo: the-dex-way
